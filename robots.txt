@@ -1,3 +1,0 @@
-##### test server #############
-User-agent: *
-Disallow: /
